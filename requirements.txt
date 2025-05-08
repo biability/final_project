@@ -1,0 +1,5 @@
+cobra
+pandas
+joblib
+biopython
+jupyterlab
